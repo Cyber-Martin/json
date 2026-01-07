@@ -1,1 +1,31 @@
-{"success":true,"base":"EUR","timestamp":1767398399,"rates":{"EURXAU":3700.1286668036,"EURXPD":1403.2698940226,"EURXPT":1784.7345945448,"XAU":0.0002702609,"XPD":0.0007126213,"XPT":0.0005603074}}
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
